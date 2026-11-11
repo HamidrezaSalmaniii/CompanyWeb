@@ -4,7 +4,7 @@ using Company.Services;
 using CompanyWebApp.Mapping;
 using CompanyWebApp.Middleware;
 using CompanyWebApp.Services.Company;
-using CompanyWebApp.Services.Depatment;
+using CompanyWebApp.Services.Department;
 using CompanyWebApp.Services.Employee;
 using CompanyWebApp.Services.LeaveRequest;
 using CompanyWebApp.Services.Position;

@@ -6,7 +6,7 @@ using Company.Services;
 using CompanyWebApp.Exceptions;
 using Microsoft.EntityFrameworkCore;
 
-namespace CompanyWebApp.Services.Depatment
+namespace CompanyWebApp.Services.Department
 {
     public class DepartmentService : IDepartmentService
     {
